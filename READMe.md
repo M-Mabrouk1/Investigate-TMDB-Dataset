@@ -27,4 +27,4 @@ Run the command below from terminal after navigating to the project directory.
 ```bash
 jupyter notebook
 ```
-A new tab will open in your browser, click on the Wrangling.ipynb notebook to open it.
+A new tab will open in your browser, click on the Investigate_a_Dataset.ipynb notebook to open it.
