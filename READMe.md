@@ -19,3 +19,12 @@ Use one of the following commands in terminal after navigating to the project's 
 ```bash
 conda env create -f Investigate.yml
 ```
+
+## Usage
+
+Run the command below from terminal after navigating to the project directory.
+
+```bash
+jupyter notebook
+```
+A new tab will open in your browser, click on the Wrangling.ipynb notebook to open it.
