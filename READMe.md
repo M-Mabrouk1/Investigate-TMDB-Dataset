@@ -7,3 +7,15 @@ This project is part of the [Udacity data analysis nanodegree]
 In this project, I am investigating The Movie Data Base dataset assessing the data for quality and tidiness issues, cleaning the data and visualizing insights.
 
 The dataset contains information about 10,000 movies collected from The Movie Database (TMDb).
+
+## Requirements
+
+Language: Python 3.7 or above
+
+Supported OS: Windows 10, Ubuntu
+
+Use one of the following commands in terminal after navigating to the project's directory to install the project requirements.
+
+```bash
+conda env create -f Investigate.yml
+```
