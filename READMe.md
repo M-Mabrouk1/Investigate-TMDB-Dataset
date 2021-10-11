@@ -4,10 +4,11 @@
 
 This project is part of the Udacity data analysis nanodegree
 
-In this project, I am investigating The Movie Data Base dataset assessing the data for quality and tidiness issues, cleaning the data and visualizing insights.<br/>
-[Notebook](https://m-mabrouk1.github.io/Investigate-TMDB-Dataset/Investigate_a_Dataset.html)
+In this project, I am investigating The Movie Data Base dataset assessing the data for quality and tidiness issues, cleaning the data and visualizing insights.
 
 The dataset contains information about 10,000 movies collected from The Movie Database (TMDb).
+
+[Notebook](https://m-mabrouk1.github.io/Investigate-TMDB-Dataset/Investigate_a_Dataset.html)
 
 ## Requirements
 
