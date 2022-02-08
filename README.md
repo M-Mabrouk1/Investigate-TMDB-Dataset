@@ -1,5 +1,3 @@
-# Data Wrangling
-
 ## Description
 
 This project is part of the Udacity data analysis nanodegree
@@ -8,25 +6,32 @@ In this project, I am investigating The Movie Data Base dataset assessing the da
 
 The dataset contains information about 10,000 movies collected from The Movie Database (TMDb).
 
-[Notebook](https://m-mabrouk1.github.io/Investigate-TMDB-Dataset/Investigate_a_Dataset.html)
+**You can check the notebook as HTML file below**
+
+> [Notebook](https://m-mabrouk1.github.io/Investigate-TMDB-Dataset/Investigate_a_Dataset.html)
 
 ## Requirements
 
-Language: Python 3.7 or above
+### Required packages can be installed using conda or pip.
 
-Supported OS: Windows 10, Ubuntu
+> **To create a new environment using conda.**
 
-Use one of the following commands in terminal after navigating to the project's directory to install the project requirements.
+>``` 
+>conda create --name NEWENVNAME --file conda.txt 
+>```
+**To create a new environment using pip.**
 
-```bash
-conda env create -f Investigate.yml
-```
+>```
+>python3 -m venv ENVNAME
+>source ENVNAME/bin/activate
+>pip install -r pip.txt 
+>```
 
 ## Usage
 
-Run the command below from terminal after navigating to the project directory.
+To view the notebook as ipynb run the command below from terminal after navigating to the project directory.
 
-```bash
-jupyter notebook
-```
-A new tab will open in your browser, click on the Investigate_a_Dataset.ipynb notebook to open it.
+>```bash
+>jupyter notebook
+>```
+>A new tab will open in your browser, click on the Investigate_a_Dataset.ipynb notebook to open it.
