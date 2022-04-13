@@ -9,6 +9,7 @@ The dataset contains information about 10,000 movies collected from The Movie Da
 **You can check the notebook as HTML file below**
 
 > [Notebook](https://m-mabrouk1.github.io/Investigate-TMDB-Dataset/Investigate_a_Dataset.html)
+![demo gif](data/Investigate.gif)
 
 ## Requirements
 
